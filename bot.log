@@ -1,0 +1,6 @@
+2026-04-22 11:01:43,985 - INFO - REQUEST -> BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-22 11:01:43,985 - INFO - RESPONSE -> {'orderId': 654903, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 56618.59, 'timestamp': 1776835903985}
+2026-04-22 11:01:51,665 - INFO - REQUEST -> BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-22 11:01:51,666 - INFO - RESPONSE -> {'orderId': 777258, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 53872.2, 'timestamp': 1776835911666}
+2026-04-22 11:02:05,652 - INFO - REQUEST -> BTCUSDT, SELL, LIMIT, 0.001, 60000.0
+2026-04-22 11:02:05,652 - INFO - RESPONSE -> {'orderId': 972078, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 60000.0, 'timestamp': 1776835925652}
